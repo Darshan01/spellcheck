@@ -1,7 +1,5 @@
-AUTHORS: Darshan Lakshminarayanan and Sivaragha Deepika Buddana
-NetIds: DL1058 and SDB210
-
-We collaborated on this project by sharing a document and pasting our code.
+AUTHORS: Darshan Lakshminarayanan
+NetIds: DL1058
 
 ---------------------------------------------USAGE---------------------------------------------
 
