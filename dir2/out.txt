@@ -1,0 +1,3 @@
+When spchk is given a directory name as an argument, it will perform a recursive directory traversal
+and check spelling in all files whose names end with “.txt”, but ignoring any files or directories whose
+names begin with “.”

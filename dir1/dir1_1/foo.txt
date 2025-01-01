@@ -1,0 +1,2 @@
+write a program tha
+reads a dicts
